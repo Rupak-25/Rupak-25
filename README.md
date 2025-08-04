@@ -6,8 +6,8 @@
 
 <br>
 
-- 🌱 I’m currently learning **backend**
-- 💬 Ask me about **Frontend, MERN**
+- 🌱 I’m currently preparing to become **Full Stack Developer**
+- 💬 Ask me about **MERN**
 - 📫 How to reach me **crupak776@gmail.com**
 - ⚡ Fun fact **I think I am a multitasking guru**
 
