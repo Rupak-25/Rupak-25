@@ -1,6 +1,6 @@
 <img src = "https://assets.owebest.com/files/Blogs/bg_img/4f3a2b1f5d56d05af5e7c16053d31bbd/blog-banner(22).jpg" height = "350" width= "1000" align = "center" alt = "Image">
 <h1 align="center">Hi 👋, I'm Rupak Chakraborty</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">An aspiring Full Stack Developer from India</h3>
 <br>
 <img align = "right"  width="400" src = "https://img.freepik.com/premium-photo/website-full-stack-developer-vector-style-illustration-art-wallpaper-background_987764-23171.jpg" alt = "Image">
 
