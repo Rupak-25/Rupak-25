@@ -5,7 +5,6 @@
 </div>
 
 
-
 ## 📌 About Me
 - 🎓 A 3rd-year CSE student @ DSCSITSC.
 - 💻 Skilled in MERN, PostgreSQL, Redis, REST APIs, with a passion for GSAP & Swiper.js animations.
@@ -15,11 +14,17 @@
 - ✍️ Beyond coding, I explore AI, research papers, tech communities, and creative UI design.
 - 💬 Feel free to reach out for collaboration, freelancing, or tech discussions!
 - 📩 Reach me out via email: crupak776@gmail.com
-- 🌐 Check out my [LinkedIn](https://www.linkedin.com/in/rupakch16) profile for more about my work experience.
+- 🌐 Check out my [LinkedIn](https://www.linkedin.com/in/rupakch16) profile for more details about my work experience.
 - > **#Let’sGetStarted**
 
 <br>
 
+<p align="center">
+  <a href="https://portfolio-1-one-bice.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-3eaf7c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</p>
+<br>
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=1200&color=FF0080&center=true&vCenter=true&width=800&lines=My+Tech+Stack+is+Always+Growing+%F0%9F%92%A1;Here+are+the+tools+I+love+to+use+%F0%9F%9A%80" alt="Tech Stack Typing Animation" />
