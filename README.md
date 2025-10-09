@@ -14,7 +14,7 @@
 - 🌱 Always upgrading my skills in full-stack development, deployment workflows, and modern technologies.
 - ✍️ Beyond coding, I explore AI, research papers, tech communities, and creative UI design.
 - 💬 Feel free to reach out for collaboration, freelancing, or tech discussions!
-- 📧 You can reach me at: crupak776@gmail.com
+- 📩 Reach me out via email: crupak776@gmail.com
 - 🌐 Check out my [LinkedIn](https://www.linkedin.com/in/rupakch16) profile for more about my work experience.
 - > **#Let’sGetStarted**
 
