@@ -1,20 +1,24 @@
 <img src = "https://assets.owebest.com/files/Blogs/bg_img/4f3a2b1f5d56d05af5e7c16053d31bbd/blog-banner(22).jpg" height = "350" width= "1000" align = "center" alt = "Image">
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=30AABC&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I+am+Rupak+Chakraborty;An+aspring+Full+Stack+Developer;Building+Real+World+Applications;Let%27s+Build+Something+Awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=30AABC&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I+am+Rupak+Chakraborty;A+passionate+Full+Stack+Developer+from+India;Building+Real+World+Applications;Let%27s+Build+Something+Awesome!" alt="Typing SVG" />
 </div>
 
 
 
 <br>
-<img align = "right"  width="400" src = "https://img.freepik.com/premium-photo/website-full-stack-developer-vector-style-illustration-art-wallpaper-background_987764-23171.jpg" alt = "Image">
 
-<br>
 
-- 🌱 I’m currently preparing to become **Full Stack Developer**
-- 💬 Ask me about **MERN**
-- 📫 How to reach me **crupak776@gmail.com**
-- ⚡ Fun fact **I think I am a multitasking guru**
+## 📌 About Me
+- 🎓 3rd year CSE student @DSCSITSC.
+- 💻 Skilled in MERN, PostgreSQL, Redis, REST APIs, with a passion for GSAP & Swiper.js animations.
+- 🚀 I love turning ideas into production-ready projects that combine clean design, performance, and functionality.
+- ⚙️ I use GitHub Actions and cloud tools to automate workflows and enhance project performance.
+- 🌱 Always upgrading my skills in full-stack, deployment workflows, and modern technologies.
+- ✍️ Beyond coding, I explore AI, research papers, tech communities, and creative UI design.
+- 💬 Feel free to reach out for collaboration, freelancing, or tech discussions!
+- 📧 You can reach me at  crupak776@gmail.com.
+- 🌐 Check out my GitHub profile for more about my projects and experience.
 
 <br>
 
@@ -35,5 +39,5 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.redis.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <br>
-> _"Welcome to the RUPAK Empire👑."_  
-> **#Let’sGetStarted**
+
+> **<h1 type="italic" color="grey">#Let’sGetStarted</h1>**
