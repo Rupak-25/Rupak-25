@@ -1,6 +1,11 @@
 <img src = "https://assets.owebest.com/files/Blogs/bg_img/4f3a2b1f5d56d05af5e7c16053d31bbd/blog-banner(22).jpg" height = "350" width= "1000" align = "center" alt = "Image">
-<h1 align="center">Hi 👋, I'm Rupak Chakraborty</h1>
-<h3 align="center">An aspiring Full Stack Developer from India</h3>
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=30AABC&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I+am+Rupak+Chakraborty;An+aspring+Full+Stack+Developer;Building+Real+World+Applications;Let%27s+Build+Something+Awesome!" alt="Typing SVG" />
+</div>
+
+
+
 <br>
 <img align = "right"  width="400" src = "https://img.freepik.com/premium-photo/website-full-stack-developer-vector-style-illustration-art-wallpaper-background_987764-23171.jpg" alt = "Image">
 
