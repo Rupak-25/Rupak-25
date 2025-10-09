@@ -7,22 +7,16 @@
 
 
 ## 📌 About Me
-- 🎓 A 3rd year CSE student @DSCSITSC.
+- 🎓 A 3rd-year CSE student @ DSCSITSC.
 - 💻 Skilled in MERN, PostgreSQL, Redis, REST APIs, with a passion for GSAP & Swiper.js animations.
 - 🚀 I love turning ideas into production-ready projects that combine clean design, performance, and functionality.
 - ⚙️ I use GitHub Actions and cloud tools to automate workflows and enhance project performance.
-- 🌱 Always upgrading my skills in full-stack, deployment workflows, and modern technologies.
+- 🌱 Always upgrading my skills in full-stack development, deployment workflows, and modern technologies.
 - ✍️ Beyond coding, I explore AI, research papers, tech communities, and creative UI design.
 - 💬 Feel free to reach out for collaboration, freelancing, or tech discussions!
-- 📧 You can reach me at  crupak776@gmail.com.
-- 🌐 Check out my <a link="https://www.linkedin.com/in/rupakch16">LinkedIn</a> profile for more about my projects and experience.
+- 📧 You can reach me at: crupak776@gmail.com
+- 🌐 Check out my [LinkedIn](https://www.linkedin.com/in/rupakch16) profile for more about my work experience.
 - > **#Let’sGetStarted**
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://portfolio-1-one-bice.vercel.app" target="blank"><img align="center" src="https://github.com/user-attachments/assets/b8e32d63-fe20-42b9-b38a-72d75cc3445a" alt="rupakchakrabortyportfolio" height="30" width="40" /></a>
-
 
 <br>
 
