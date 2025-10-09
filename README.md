@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" height="400" width="100%" />
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=30AABC&center=true&vCenter=true&width=750&lines=Welcome+to+the+RUPAK+Empire+%F0%9F%91%91;Hi+%F0%9F%91%8B%2C+I+am+Rupak+Chakraborty;A+passionate+Full+Stack+Developer+from+India;Building+Real+World+Applications;Let%27s+Build+Something+Awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=30AABC&center=true&vCenter=true&width=1000&lines=Welcome+to+the+RUPAK+Empire+%F0%9F%91%91;Hi+%F0%9F%91%8B%2C+I+am+Rupak+Chakraborty;A+passionate+Full+Stack+Developer+from+India;Building+Real+World+Applications;Let%27s+Build+Something+Awesome!" alt="Typing SVG" />
 </div>
 
 
