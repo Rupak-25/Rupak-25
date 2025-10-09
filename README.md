@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/64/72/36/647236fc1c3aec4ac575c4ed5a8ca524.gif" alt="Banner" height="600" width="100%" />
+<img src="https://i.pinimg.com/originals/64/72/36/647236fc1c3aec4ac575c4ed5a8ca524.gif" alt="Banner" height="350" width="100%" />
 <br>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=30AABC&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I+am+Rupak+Chakraborty;A+passionate+Full+Stack+Developer+from+India;Building+Real+World+Applications;Let%27s+Build+Something+Awesome!" alt="Typing SVG" />
