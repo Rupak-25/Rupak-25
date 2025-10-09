@@ -24,8 +24,8 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=1200&color=FF0080&center=true&vCenter=true&width=800&lines=My+Tech+Stack+is+Always+Growing+%F0%9F%92%A1;Here+are+the+tools+I+love+to+use+%F0%9F%9A%80" alt="Tech Stack Typing Animation" />
 
-  <br/><br/>
-
+  <br>
+  <br>
  <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -45,15 +45,11 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-
-
-  <br/>
+  <br>
 
 </div>
 
 
-
-<br>
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
