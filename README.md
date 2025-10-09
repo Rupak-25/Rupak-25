@@ -1,4 +1,4 @@
-<img src = "https://assets.owebest.com/files/Blogs/bg_img/4f3a2b1f5d56d05af5e7c16053d31bbd/blog-banner(22).jpg" height = "350" width= "1000" align = "center" alt = "Image">
+<img src="https://i.pinimg.com/originals/64/72/36/647236fc1c3aec4ac575c4ed5a8ca524.gif" alt="Banner" height="600" width="100%" />
 <br>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=30AABC&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I+am+Rupak+Chakraborty;A+passionate+Full+Stack+Developer+from+India;Building+Real+World+Applications;Let%27s+Build+Something+Awesome!" alt="Typing SVG" />
@@ -40,4 +40,17 @@
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+<br>
+
 > **<h1 type="italic" color="grey">#Let’sGetStarted</h1>**
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
