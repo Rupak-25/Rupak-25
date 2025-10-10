@@ -16,9 +16,8 @@
 - > **#Let’sGetStarted**
 <br>
 
-## 🌟 Connect with me 🤝
-
-Let’s build something impactful together — whether it’s a collaboration, internship opportunity, or just a good conversation about tech and design.
+## <p align="center">🌟 Connect with me 🤝</p>
+<p align="center">Building meaningful tech starts with the right conversation — open to internships, job opportunities, and collaborative ideas.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rupakch16" target="_blank">
