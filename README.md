@@ -6,7 +6,7 @@
 
 
 ## 📌 About Me
-- 🎓 A 3rd-year CSE student @ DSCSITSC.
+- 🎓 A 3rd-year CSE student @DSCSITSC.
 - 💻 Skilled in MERN, PostgreSQL, Redis, REST APIs, with a passion for GSAP & Swiper.js animations.
 - 🚀 I love turning ideas into production-ready projects that combine clean design, performance, and functionality.
 - ⚙️ I use GitHub Actions and cloud tools to automate workflows and enhance project performance.
