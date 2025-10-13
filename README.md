@@ -17,7 +17,7 @@
 <br>
 
 ## <p align="center">🌟 Connect with me 🤝</p>
-<p align="center">Building meaningful tech starts with the right conversation — open to internships, job opportunities, and collaborative ideas.</p>
+<p align="center"><strong>Building meaningful tech starts with the right conversation — open to internships, job opportunities, and collaborative ideas.</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rupakch16" target="_blank">
